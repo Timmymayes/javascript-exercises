@@ -11,10 +11,8 @@ const books = [
   {
     title: 'Book2',
     author: 'Name2'
-  }
-]
-```
-
+  }]
+  * 
 Your job is to write a function that takes the array and returns an array of titles:
 
 ```javascript
