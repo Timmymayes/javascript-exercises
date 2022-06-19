@@ -1,0 +1,12 @@
+const caesar = function(toShift, shiftAmount) {
+  let result = '';
+  let i = toShift.lengh;
+  while (i > 0) {
+    i--;
+    result += (toShift)
+  }
+
+};
+
+// Do not edit below this line
+module.exports = caesar;
